@@ -1,0 +1,14 @@
+{
+  "revenue": {
+    "tablet": 120000,
+    "smartphone": 80000
+  },
+  "impresions": {
+    "tablet": 20000,
+    "smartphone": 30000
+  },
+  "visits": {
+    "tablet": 480000,
+    "smartphone": 120000
+  } 
+}

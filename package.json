@@ -1,0 +1,19 @@
+{
+  "name": "javascript-mvc-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PetraSp/JavaScript-MVC-app.git"
+  },
+  "author": "pspirkova@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PetraSp/JavaScript-MVC-app/issues"
+  },
+  "homepage": "https://github.com/PetraSp/JavaScript-MVC-app#readme"
+}
